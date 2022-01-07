@@ -1,5 +1,7 @@
 # Haswell-macOS-OC
 
+![Screenshot](/screenshot.png?raw=true)
+
 ## Hardware
 
 | **Component**    | **Model**                                  |
